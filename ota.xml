@@ -13,7 +13,7 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-<DirectUrl>https://github.com/Hexa-Project/release_capricorn/releases/download/Alpha-9-2/hexa-14.1-201700517-capricorn.zip</DirectUrl>
+<DirectUrl>https://github.com/Hexa-Project/release_capricorn/releases/download/Alpha-9-2/hexa-14.1-2017005170-capricorn.zip</DirectUrl>
   <HttpUrl nil="true" />
   <!-- What version are you issuing? -->
   <Android><![CDATA[ 7.1.2 Nougat ]]></Android>
