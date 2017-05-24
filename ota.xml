@@ -13,7 +13,7 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-<DirectUrl>https://github.com/Hexa-Project/release_capri/releases/download/Alpha-9-3/hexa-14.1-20170523-capricorn.zip</DirectUrl>
+<DirectUrl>https://github.com/Hexa-Project/release_capri/releases/download/Alpha-9-3/hexa-14.1-20170524-capricorn.zip</DirectUrl>
   <HttpUrl nil="true" />
   <!-- What version are you issuing? -->
   <Android><![CDATA[ 7.1.2 Nougat ]]></Android>
@@ -22,7 +22,7 @@
   <CheckMD5 nil="true" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">578423895</FileSize>
+  <FileSize type="integer">578425466</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer> <![CDATA[ nazunamoe ]]></Developer>
