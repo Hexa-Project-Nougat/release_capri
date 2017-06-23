@@ -2,18 +2,18 @@
 <ROM>
   <!-- Your ROM Name -->
  <RomName><![CDATA[ Hexa-Project-Capricorn ]]></RomName>
-  <VersionName> <![CDATA[ Alpha-9(Capricorn) ]]></VersionName>
+  <VersionName> <![CDATA[ Beta-1(Capricorn) ]]></VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170610</VersionNumber>
+  <VersionNumber type="integer">20170622</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-<DirectUrl>https://github.com/Hexa-Project/release_capri/releases/download/Alpha-9-7/hexa-14.1-20170610-OFFICIAL-capricorn.zip</DirectUrl>
+<DirectUrl>https://github.com/Hexa-Project/release_capri/releases/download/Beta/hexa-14.1-20170622-OFFICIAL-capricorn.zip</DirectUrl>
   <HttpUrl nil="true" />
   <!-- What version are you issuing? -->
   <Android><![CDATA[ 7.1.2 Nougat ]]></Android>
@@ -22,7 +22,7 @@
   <CheckMD5 nil="true" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">577909332</FileSize>
+  <FileSize type="integer">578780051</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer> <![CDATA[ nazunamoe ]]></Developer>
